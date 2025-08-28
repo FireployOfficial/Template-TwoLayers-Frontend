@@ -52,9 +52,10 @@ npm run dev
 
 ---
 
-## 🙌 Créditos  
+## 🙌 Créditos
 
-Este proyecto es un **fork** del trabajo original de [urian121](https://github.com/urian121).  
-Los créditos corresponden al autor original; este repositorio busca fines de **aprendizaje, personalización y mejora** sobre su propuesta.  
+Este proyecto es un **fork** del trabajo original de [urian121](https://github.com/urian121).
+Repositorio original: [Full-Stack-CRUD-con-NodeJS-Express-MySQL-API-Rest-y-ReactJS](https://github.com/urian121/Full-Stack-CRUD-con-NodeJS-Express-MySQL-API-Rest-y-ReactJS).
+Los créditos corresponden al autor original; este repositorio busca fines de **aprendizaje, personalización y mejora** sobre su propuesta.
 
 ---
