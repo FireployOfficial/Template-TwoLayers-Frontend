@@ -8,6 +8,7 @@ function App() {
         Desarrollo un <span style={{ color: "#7366ff" }}>CRUD Full Stack </span>
         con Node.js, Express, MySQL, API REST y ReactJS
       </h1>
+      <h2> Autor de modificaciones {import.meta.env.VITE_AUTOR ?? "Sin Establecer"}</h2>
       <HomePage />
     </>
   );
